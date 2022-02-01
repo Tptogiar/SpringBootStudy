@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/_01_HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/_02_SpringInitializrTest/pom.xml" />
         <option value="$PROJECT_DIR$/_03_Config/pom.xml" />
+        <option value="$PROJECT_DIR$/_04_ConfigFileLocation/pom.xml" />
       </list>
     </option>
   </component>
