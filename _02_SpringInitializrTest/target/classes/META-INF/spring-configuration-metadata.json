@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "name": "bird",
+      "type": "com.tptogiar.springinitializrtest.bean.Bird",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Bird"
+    },
+    {
+      "name": "dog",
+      "type": "com.tptogiar.springinitializrtest.bean.Dog",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Dog"
+    },
+    {
+      "name": "person",
+      "type": "com.tptogiar.springinitializrtest.bean.Person",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "bird.name",
+      "type": "java.lang.String",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Bird"
+    },
+    {
+      "name": "dog.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Dog"
+    },
+    {
+      "name": "dog.name",
+      "type": "java.lang.String",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Dog"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.tptogiar.springinitializrtest.bean.Dog",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.tptogiar.springinitializrtest.bean.Person"
+    }
+  ],
+  "hints": []
+}

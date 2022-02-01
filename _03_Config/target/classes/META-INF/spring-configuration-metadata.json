@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "name": "bird",
+      "type": "com.tptogiar.springbootconfig.bean.Bird",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Bird"
+    },
+    {
+      "name": "dog",
+      "type": "com.tptogiar.springbootconfig.bean.Dog",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Dog"
+    },
+    {
+      "name": "person",
+      "type": "com.tptogiar.springbootconfig.bean.Person",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "bird.name",
+      "type": "java.lang.String",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Bird"
+    },
+    {
+      "name": "dog.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Dog"
+    },
+    {
+      "name": "dog.name",
+      "type": "java.lang.String",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Dog"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.tptogiar.springbootconfig.bean.Dog",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.tptogiar.springbootconfig.bean.Person"
+    }
+  ],
+  "hints": []
+}
