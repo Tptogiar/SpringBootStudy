@@ -8,10 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_03_Config" />
-        <module name="_02_SpringInitializrTest" />
-        <module name="_01_HelloWorld" />
         <module name="_04_ConfigFileLocation" />
+        <module name="_02_SpringInitializrTest" />
         <module name="_05_Log" />
+        <module name="_06_ChangeLogImplement" />
+        <module name="_01_HelloWorld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="_03_Config" target="1.8" />
       <module name="_04_ConfigFileLocation" target="1.8" />
       <module name="_05_Log" target="1.8" />
+      <module name="_06_ChangeLogImplement" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,6 +30,7 @@
       <module name="_03_Config" options="-parameters" />
       <module name="_04_ConfigFileLocation" options="-parameters" />
       <module name="_05_Log" options="-parameters" />
+      <module name="_06_ChangeLogImplement" options="-parameters" />
     </option>
   </component>
 </project>
