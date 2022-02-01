@@ -11,6 +11,7 @@
         <module name="_02_SpringInitializrTest" />
         <module name="_01_HelloWorld" />
         <module name="_04_ConfigFileLocation" />
+        <module name="_05_Log" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +19,7 @@
       <module name="_02_SpringInitializrTest" target="1.8" />
       <module name="_03_Config" target="1.8" />
       <module name="_04_ConfigFileLocation" target="1.8" />
+      <module name="_05_Log" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="_02_SpringInitializrTest" options="-parameters" />
       <module name="_03_Config" options="-parameters" />
       <module name="_04_ConfigFileLocation" options="-parameters" />
+      <module name="_05_Log" options="-parameters" />
     </option>
   </component>
 </project>
