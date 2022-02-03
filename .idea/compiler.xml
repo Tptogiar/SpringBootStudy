@@ -7,33 +7,43 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
         <module name="_03_Config" />
         <module name="_04_ConfigFileLocation" />
         <module name="_02_SpringInitializrTest" />
+        <module name="_08_SpringBootCURD" />
         <module name="_05_Log" />
         <module name="_06_ChangeLogImplement" />
         <module name="_01_HelloWorld" />
-        <module name="_07_SpringBootCRUD" />
+        <module name="_07_SpringBootWebDefaultConfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="_007_SpringBootWebDefaultConfig" target="1.8" />
       <module name="_01_HelloWorld" target="1.6" />
       <module name="_02_SpringInitializrTest" target="1.8" />
       <module name="_03_Config" target="1.8" />
       <module name="_04_ConfigFileLocation" target="1.8" />
       <module name="_05_Log" target="1.8" />
       <module name="_06_ChangeLogImplement" target="1.8" />
-      <module name="_07_SpringBootCRUD" target="1.8" />
+      <module name="_07_SpringBootWebDefaultConfig" target="1.8" />
+      <module name="_08_SpringBootCRUD" target="1.8" />
+      <module name="_08_SpringBootCURD" target="1.8" />
+      <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="_007_SpringBootWebDefaultConfig" options="-parameters" />
       <module name="_02_SpringInitializrTest" options="-parameters" />
       <module name="_03_Config" options="-parameters" />
       <module name="_04_ConfigFileLocation" options="-parameters" />
       <module name="_05_Log" options="-parameters" />
       <module name="_06_ChangeLogImplement" options="-parameters" />
-      <module name="_07_SpringBootCRUD" options="-parameters" />
+      <module name="_07_SpringBootWebDefaultConfig" options="-parameters" />
+      <module name="_08_SpringBootCRUD" options="-parameters" />
+      <module name="_08_SpringBootCURD" options="-parameters" />
+      <module name="demo" options="-parameters" />
     </option>
   </component>
 </project>

@@ -9,14 +9,26 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tptogiar</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>spring-boot-web-default-config</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>_05_Log</name>
+    <name>spring-boot-web-default-config</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
+        <thymeleaf.version>3.0.15.RELEASE</thymeleaf.version>
+        <thymeleaf-layout-dialect.version>3.0.0</thymeleaf-layout-dialect.version>
     </properties>
     <dependencies>
+
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+
+
+
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

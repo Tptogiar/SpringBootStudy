@@ -9,7 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/_04_ConfigFileLocation/_04_ConfigFileLocation.iml" filepath="$PROJECT_DIR$/_04_ConfigFileLocation/_04_ConfigFileLocation.iml" />
       <module fileurl="file://$PROJECT_DIR$/_05_Log/_05_Log.iml" filepath="$PROJECT_DIR$/_05_Log/_05_Log.iml" />
       <module fileurl="file://$PROJECT_DIR$/_06_ChangeLogImplement/_06_ChangeLogImplement.iml" filepath="$PROJECT_DIR$/_06_ChangeLogImplement/_06_ChangeLogImplement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_07_SpringBootCRUD/_07_SpringBootCRUD.iml" filepath="$PROJECT_DIR$/_07_SpringBootCRUD/_07_SpringBootCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_SpringBootWebDefaultConfig/_07_SpringBootWebDefaultConfig.iml" filepath="$PROJECT_DIR$/_07_SpringBootWebDefaultConfig/_07_SpringBootWebDefaultConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08_SpringBootCURD/_08_SpringBootCURD.iml" filepath="$PROJECT_DIR$/_08_SpringBootCURD/_08_SpringBootCURD.iml" />
     </modules>
   </component>
 </project>
