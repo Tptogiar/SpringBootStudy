@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/_04_ConfigFileLocation/pom.xml" />
         <option value="$PROJECT_DIR$/_05_Log/pom.xml" />
         <option value="$PROJECT_DIR$/_06_ChangeLogImplement/pom.xml" />
+        <option value="$PROJECT_DIR$/_07_SpringBootCRUD/pom.xml" />
       </list>
     </option>
   </component>
