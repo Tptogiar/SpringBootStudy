@@ -14,19 +14,13 @@ import java.util.Map;
 @Controller
 public class HelloController {
 
+//    由自定义的扩展配置类代替
 //    @RequestMapping({"/","/index.html"})
 //    public String index(){
 //        return "index";
 //    }
 
-    @ResponseBody
-    @RequestMapping("/hello")
-    public  String hello(@RequestParam("user") String user){
-        if(user.equals("aaa")){
-            throw new UserNotExistException();
-        }
-        return "Hello World";
-    }
+
 
     //查出用户数据，在页面展示
     @RequestMapping("/success")

@@ -42,7 +42,7 @@
       <module name="_06_ChangeLogImplement" options="-parameters" />
       <module name="_07_SpringBootWebDefaultConfig" options="-parameters" />
       <module name="_08_SpringBootCRUD" options="-parameters" />
-      <module name="_08_SpringBootCURD" options="-parameters" />
+      <module name="_08_SpringBootCURD" options="" />
       <module name="demo" options="-parameters" />
     </option>
   </component>

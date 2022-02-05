@@ -3,6 +3,8 @@ package com.tptogiar.springbootcurd.config;
 
 import com.tptogiar.springbootcurd.component.MyLocaleResolver;
 import com.tptogiar.springbootcurd.interceptor.LoginHandlerInterceptor;
+//import org.springframework.boot.web.server.ConfigurableWebServerFactory;
+//import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;
@@ -20,8 +22,8 @@ public class MvcConfig extends WebMvcConfigurerAdapter {
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
        // super.addViewControllers(registry);
-        //浏览器发送 /atguigu 请求来到 success
-        registry.addViewController("/atguigu").setViewName("success");
+        //浏览器发送 /tptogiar 请求来到 success
+        registry.addViewController("/tptogiar").setViewName("success");
         registry.addViewController("/").setViewName("index");
     }
 
@@ -42,8 +44,8 @@ public class MvcConfig extends WebMvcConfigurerAdapter {
                 //super.addInterceptors(registry);
                 //静态资源；  *.css , *.js
                 //SpringBoot已经做好了静态资源映射
-                registry.addInterceptor(new LoginHandlerInterceptor()).addPathPatterns("/**")
-                        .excludePathPatterns("/index.html","/","/user/login");
+//                registry.addInterceptor(new LoginHandlerInterceptor()).addPathPatterns("/**")
+//                        .excludePathPatterns("/index.html","/","/user/login");
             }
         };
         return adapter;
@@ -53,5 +55,18 @@ public class MvcConfig extends WebMvcConfigurerAdapter {
     public LocaleResolver localeResolver(){
         return new MyLocaleResolver();
     }
+
+
+
+//    //配置嵌入式的Servlet容器
+//    @Bean
+//    public WebServerFactoryCustomizer<ConfigurableWebServerFactory> webServerFactoryCustomizer(){
+//        return new WebServerFactoryCustomizer<ConfigurableWebServerFactory>() {
+//            @Override
+//            public void customize(ConfigurableWebServerFactory factory) {
+//                factory.setPort(8080);
+//            }
+//        };
+//    }
 
 }
