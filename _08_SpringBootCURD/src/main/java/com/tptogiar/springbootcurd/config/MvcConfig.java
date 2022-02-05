@@ -3,8 +3,10 @@ package com.tptogiar.springbootcurd.config;
 
 import com.tptogiar.springbootcurd.component.MyLocaleResolver;
 import com.tptogiar.springbootcurd.interceptor.LoginHandlerInterceptor;
-//import org.springframework.boot.web.server.ConfigurableWebServerFactory;
-//import org.springframework.boot.web.server.WebServerFactoryCustomizer;
+import org.springframework.boot.web.server.ConfigurableWebServerFactory;
+import org.springframework.boot.web.server.WebServerFactoryCustomizer;
+import org.springframework.boot.web.server.ConfigurableWebServerFactory;
+import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;
@@ -58,15 +60,15 @@ public class MvcConfig extends WebMvcConfigurerAdapter {
 
 
 
-//    //配置嵌入式的Servlet容器
-//    @Bean
-//    public WebServerFactoryCustomizer<ConfigurableWebServerFactory> webServerFactoryCustomizer(){
-//        return new WebServerFactoryCustomizer<ConfigurableWebServerFactory>() {
-//            @Override
-//            public void customize(ConfigurableWebServerFactory factory) {
-//                factory.setPort(8080);
-//            }
-//        };
-//    }
+    //配置嵌入式的Servlet容器
+    @Bean
+    public WebServerFactoryCustomizer<ConfigurableWebServerFactory> webServerFactoryCustomizer(){
+        return new WebServerFactoryCustomizer<ConfigurableWebServerFactory>() {
+            @Override
+            public void customize(ConfigurableWebServerFactory factory) {
+                factory.setPort(8080);
+            }
+        };
+    }
 
 }

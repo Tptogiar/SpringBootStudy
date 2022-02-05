@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/_09_SpringBootWar" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -12,6 +15,7 @@
         <option value="$PROJECT_DIR$/_07_SpringBootCRUD/pom.xml" />
         <option value="$PROJECT_DIR$/_07_SpringBootWebDefaultConfig/pom.xml" />
         <option value="$PROJECT_DIR$/_08_SpringBootCURD/pom.xml" />
+        <option value="$PROJECT_DIR$/_09_SpringBootWar/pom.xml" />
       </list>
     </option>
   </component>

@@ -16,6 +16,7 @@
         <module name="_06_ChangeLogImplement" />
         <module name="_01_HelloWorld" />
         <module name="_07_SpringBootWebDefaultConfig" />
+        <module name="_09_SpringBootWar" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="_07_SpringBootWebDefaultConfig" target="1.8" />
       <module name="_08_SpringBootCRUD" target="1.8" />
       <module name="_08_SpringBootCURD" target="1.8" />
+      <module name="_09_SpringBootWar" target="1.8" />
       <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -42,7 +44,8 @@
       <module name="_06_ChangeLogImplement" options="-parameters" />
       <module name="_07_SpringBootWebDefaultConfig" options="-parameters" />
       <module name="_08_SpringBootCRUD" options="-parameters" />
-      <module name="_08_SpringBootCURD" options="" />
+      <module name="_08_SpringBootCURD" options="-parameters" />
+      <module name="_09_SpringBootWar" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>

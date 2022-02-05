@@ -6,8 +6,8 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <!--            回到旧版-->
-        <version>1.5.9.RELEASE</version>
-<!--        <version>2.6.3</version>-->
+<!--        <version>1.5.9.RELEASE</version>-->
+        <version>2.6.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tptogiar</groupId>
@@ -23,18 +23,25 @@
     <dependencies>
 
 
-<!--        &lt;!&ndash; 引入web模块 &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.springframework.boot</groupId>-->
-<!--            <artifactId>spring-boot-starter-web</artifactId>-->
 
-<!--        </dependency>-->
 
-        <!--引入其他的Servlet容器-->
+<!--&lt;!&ndash;        引入其他的Servlet容器&ndash;&gt;-->
 <!--        <dependency>-->
-<!--            <artifactId>spring-boot-starter-undertow</artifactId>-->
+<!--            <artifactId>spring-boot-starter-jetty</artifactId>-->
 <!--            <groupId>org.springframework.boot</groupId>-->
 <!--        </dependency>-->
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+<!--            <exclusions>-->
+<!--                <exclusion>-->
+<!--                    <artifactId>spring-boot-starter-tomcat</artifactId>-->
+<!--                    <groupId>org.springframework.boot</groupId>-->
+<!--                </exclusion>-->
+<!--            </exclusions>-->
+
+        </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -65,10 +72,7 @@
         </dependency>
 
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
+
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
