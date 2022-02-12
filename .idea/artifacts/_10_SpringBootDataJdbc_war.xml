@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_10_SpringBootDataJdbc:war">
+    <output-path>$PROJECT_DIR$/_10_SpringBootDataJdbc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_10_SpringBootDataJdbc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-boot-data-jdbc-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_10_SpringBootDataJdbc:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -7,16 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
+        <module name="_10_SpringBootDataJdbc" />
         <module name="_03_Config" />
-        <module name="_04_ConfigFileLocation" />
+        <module name="_12_SpringBootMybatis" />
+        <module name="demo" />
         <module name="_02_SpringInitializrTest" />
-        <module name="_08_SpringBootCURD" />
-        <module name="_05_Log" />
         <module name="_06_ChangeLogImplement" />
-        <module name="_01_HelloWorld" />
-        <module name="_07_SpringBootWebDefaultConfig" />
+        <module name="_11_SpringBootDatabaseDruid" />
         <module name="_09_SpringBootWar" />
+        <module name="_04_ConfigFileLocation" />
+        <module name="_07_SpringBootWebDefaultConfig" />
+        <module name="_08_SpringBootCURD" />
+        <module name="_10_SpringBootDatabaseJdbc" />
+        <module name="_01_HelloWorld" />
+        <module name="_05_Log" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +35,10 @@
       <module name="_08_SpringBootCRUD" target="1.8" />
       <module name="_08_SpringBootCURD" target="1.8" />
       <module name="_09_SpringBootWar" target="1.8" />
+      <module name="_10_SpringBootDatabaseJdbc" target="1.8" />
+      <module name="_10_SpringBootDataJdbc" target="1.8" />
+      <module name="_11_SpringBootDatabaseDruid" target="1.8" />
+      <module name="_12_SpringBootMybatis" target="1.8" />
       <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -46,6 +54,10 @@
       <module name="_08_SpringBootCRUD" options="-parameters" />
       <module name="_08_SpringBootCURD" options="-parameters" />
       <module name="_09_SpringBootWar" options="-parameters" />
+      <module name="_10_SpringBootDataJdbc" options="-parameters" />
+      <module name="_10_SpringBootDatabaseJdbc" options="-parameters" />
+      <module name="_11_SpringBootDatabaseDruid" options="-parameters" />
+      <module name="_12_SpringBootMybatis" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>

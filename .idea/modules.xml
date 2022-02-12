@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/_07_SpringBootWebDefaultConfig/_07_SpringBootWebDefaultConfig.iml" filepath="$PROJECT_DIR$/_07_SpringBootWebDefaultConfig/_07_SpringBootWebDefaultConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/_08_SpringBootCURD/_08_SpringBootCURD.iml" filepath="$PROJECT_DIR$/_08_SpringBootCURD/_08_SpringBootCURD.iml" />
       <module fileurl="file://$PROJECT_DIR$/_09_SpringBootWar/_09_SpringBootWar.iml" filepath="$PROJECT_DIR$/_09_SpringBootWar/_09_SpringBootWar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_SpringBootDatabaseJdbc/_10_SpringBootDatabaseJdbc.iml" filepath="$PROJECT_DIR$/_10_SpringBootDatabaseJdbc/_10_SpringBootDatabaseJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_SpringBootDatabaseDruid/_11_SpringBootDatabaseDruid.iml" filepath="$PROJECT_DIR$/_11_SpringBootDatabaseDruid/_11_SpringBootDatabaseDruid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12_SpringBootMybatis/_12_SpringBootMybatis.iml" filepath="$PROJECT_DIR$/_12_SpringBootMybatis/_12_SpringBootMybatis.iml" />
     </modules>
   </component>
 </project>
