@@ -23,6 +23,10 @@
         <option value="$PROJECT_DIR$/_13_SpringBootSpringDataJPA/pom.xml" />
         <option value="$PROJECT_DIR$/_14_SpringBootPrinciple/pom.xml" />
         <option value="$PROJECT_DIR$/_15_SpringBootCustomListenerInitializerRunner/pom.xml" />
+        <option value="$PROJECT_DIR$/_16_SpringBootCustomStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_1_SpringBootStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_2_TptogiarSpringBootStarterAutoConfigurer/pom.xml" />
+        <option value="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_3_TestTptogiarSpringBootStarter/pom.xml" />
       </list>
     </option>
   </component>

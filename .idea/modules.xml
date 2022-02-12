@@ -18,6 +18,10 @@
       <module fileurl="file://$PROJECT_DIR$/_13_SpringBootSpringDataJPA/_13_SpringBootSpringDataJPA.iml" filepath="$PROJECT_DIR$/_13_SpringBootSpringDataJPA/_13_SpringBootSpringDataJPA.iml" />
       <module fileurl="file://$PROJECT_DIR$/_14_SpringBootPrinciple/_14_SpringBootPrinciple.iml" filepath="$PROJECT_DIR$/_14_SpringBootPrinciple/_14_SpringBootPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/_15_SpringBootCustomListenerInitializerRunner/_15_SpringBootCustomListenerInitializerRunner.iml" filepath="$PROJECT_DIR$/_15_SpringBootCustomListenerInitializerRunner/_15_SpringBootCustomListenerInitializerRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_1_SpringBootStarter/_16_1_SpringBootStarter.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_1_SpringBootStarter/_16_1_SpringBootStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_2_TptogiarSpringBootStarterAutoConfigurer/_16_2_TptogiarSpringBootStarterAutoConfigurer.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_2_TptogiarSpringBootStarterAutoConfigurer/_16_2_TptogiarSpringBootStarterAutoConfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_3_TestTptogiarSpringBootStarter/_16_3_TestTptogiarSpringBootStarter.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_3_TestTptogiarSpringBootStarter/_16_3_TestTptogiarSpringBootStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_SpringBootCustomStarter.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_SpringBootCustomStarter.iml" />
     </modules>
   </component>
 </project>

@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_16_3_TestTptogiarSpringBootStarter" />
         <module name="_10_SpringBootDataJdbc" />
         <module name="_03_Config" />
         <module name="_12_SpringBootMybatis" />
@@ -14,8 +15,11 @@
         <module name="_02_SpringInitializrTest" />
         <module name="spring-boot-custom-listener-initializer-runner" />
         <module name="_15_SpringBootCustomListenerInitializerRunner" />
+        <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" />
         <module name="_06_ChangeLogImplement" />
         <module name="_11_SpringBootDatabaseDruid" />
+        <module name="_16_SpringBootCustomStarter" />
+        <module name="spring-boot-custom-starter" />
         <module name="_09_SpringBootWar" />
         <module name="_04_ConfigFileLocation" />
         <module name="_07_SpringBootWebDefaultConfig" />
@@ -25,6 +29,7 @@
         <module name="_10_SpringBootDatabaseJdbc" />
         <module name="_01_HelloWorld" />
         <module name="_05_Log" />
+        <module name="_16_1_SpringBootStarter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,8 +51,13 @@
       <module name="_13_SpringBootSpringDataJPA" target="1.8" />
       <module name="_14_SpringBootPrinciple" target="1.8" />
       <module name="_15_SpringBootCustomListenerInitializerRunner" target="1.8" />
+      <module name="_16_1_SpringBootStarter" target="1.8" />
+      <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" target="1.8" />
+      <module name="_16_3_TestTptogiarSpringBootStarter" target="1.8" />
+      <module name="_16_SpringBootCustomStarter" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="spring-boot-custom-listener-initializer-runner" target="1.8" />
+      <module name="spring-boot-custom-starter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -69,8 +79,13 @@
       <module name="_13_SpringBootSpringDataJPA" options="-parameters" />
       <module name="_14_SpringBootPrinciple" options="" />
       <module name="_15_SpringBootCustomListenerInitializerRunner" options="-parameters" />
+      <module name="_16_1_SpringBootStarter" options="-parameters" />
+      <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" options="-parameters" />
+      <module name="_16_3_TestTptogiarSpringBootStarter" options="-parameters" />
+      <module name="_16_SpringBootCustomStarter" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="spring-boot-custom-listener-initializer-runner" options="-parameters" />
+      <module name="spring-boot-custom-starter" options="-parameters" />
     </option>
   </component>
 </project>
