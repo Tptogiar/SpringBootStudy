@@ -12,6 +12,8 @@
         <module name="_12_SpringBootMybatis" />
         <module name="demo" />
         <module name="_02_SpringInitializrTest" />
+        <module name="spring-boot-custom-listener-initializer-runner" />
+        <module name="_15_SpringBootCustomListenerInitializerRunner" />
         <module name="_06_ChangeLogImplement" />
         <module name="_11_SpringBootDatabaseDruid" />
         <module name="_09_SpringBootWar" />
@@ -43,7 +45,9 @@
       <module name="_12_SpringBootMybatis" target="1.8" />
       <module name="_13_SpringBootSpringDataJPA" target="1.8" />
       <module name="_14_SpringBootPrinciple" target="1.8" />
+      <module name="_15_SpringBootCustomListenerInitializerRunner" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="spring-boot-custom-listener-initializer-runner" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -63,8 +67,10 @@
       <module name="_11_SpringBootDatabaseDruid" options="-parameters" />
       <module name="_12_SpringBootMybatis" options="-parameters" />
       <module name="_13_SpringBootSpringDataJPA" options="-parameters" />
-      <module name="_14_SpringBootPrinciple" options="-parameters" />
+      <module name="_14_SpringBootPrinciple" options="" />
+      <module name="_15_SpringBootCustomListenerInitializerRunner" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="spring-boot-custom-listener-initializer-runner" options="-parameters" />
     </option>
   </component>
 </project>
