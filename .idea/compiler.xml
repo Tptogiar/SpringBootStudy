@@ -17,6 +17,8 @@
         <module name="_09_SpringBootWar" />
         <module name="_04_ConfigFileLocation" />
         <module name="_07_SpringBootWebDefaultConfig" />
+        <module name="_13_SpringBootSpringDataJPA" />
+        <module name="_14_SpringBootPrinciple" />
         <module name="_08_SpringBootCURD" />
         <module name="_10_SpringBootDatabaseJdbc" />
         <module name="_01_HelloWorld" />
@@ -39,6 +41,8 @@
       <module name="_10_SpringBootDataJdbc" target="1.8" />
       <module name="_11_SpringBootDatabaseDruid" target="1.8" />
       <module name="_12_SpringBootMybatis" target="1.8" />
+      <module name="_13_SpringBootSpringDataJPA" target="1.8" />
+      <module name="_14_SpringBootPrinciple" target="1.8" />
       <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -58,6 +62,8 @@
       <module name="_10_SpringBootDatabaseJdbc" options="-parameters" />
       <module name="_11_SpringBootDatabaseDruid" options="-parameters" />
       <module name="_12_SpringBootMybatis" options="-parameters" />
+      <module name="_13_SpringBootSpringDataJPA" options="-parameters" />
+      <module name="_14_SpringBootPrinciple" options="-parameters" />
       <module name="demo" options="-parameters" />
     </option>
   </component>

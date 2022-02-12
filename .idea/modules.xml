@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/_10_SpringBootDatabaseJdbc/_10_SpringBootDatabaseJdbc.iml" filepath="$PROJECT_DIR$/_10_SpringBootDatabaseJdbc/_10_SpringBootDatabaseJdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/_11_SpringBootDatabaseDruid/_11_SpringBootDatabaseDruid.iml" filepath="$PROJECT_DIR$/_11_SpringBootDatabaseDruid/_11_SpringBootDatabaseDruid.iml" />
       <module fileurl="file://$PROJECT_DIR$/_12_SpringBootMybatis/_12_SpringBootMybatis.iml" filepath="$PROJECT_DIR$/_12_SpringBootMybatis/_12_SpringBootMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13_SpringBootSpringDataJPA/_13_SpringBootSpringDataJPA.iml" filepath="$PROJECT_DIR$/_13_SpringBootSpringDataJPA/_13_SpringBootSpringDataJPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14_SpringBootPrinciple/_14_SpringBootPrinciple.iml" filepath="$PROJECT_DIR$/_14_SpringBootPrinciple/_14_SpringBootPrinciple.iml" />
     </modules>
   </component>
 </project>

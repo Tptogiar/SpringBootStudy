@@ -13,5 +13,7 @@
     <file url="file://$PROJECT_DIR$/_10_SpringBootDatabaseJdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_11_SpringBootDatabaseDruid/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_12_SpringBootMybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_13_SpringBootSpringDataJPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_14_SpringBootPrinciple/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -20,6 +20,8 @@
         <option value="$PROJECT_DIR$/_10_SpringBootDatabaseJdbc/pom.xml" />
         <option value="$PROJECT_DIR$/_11_SpringBootDatabaseDruid/pom.xml" />
         <option value="$PROJECT_DIR$/_12_SpringBootMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/_13_SpringBootSpringDataJPA/pom.xml" />
+        <option value="$PROJECT_DIR$/_14_SpringBootPrinciple/pom.xml" />
       </list>
     </option>
   </component>
