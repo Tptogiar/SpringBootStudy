@@ -18,7 +18,10 @@ public class EmployeeService {
     EmployeeMapper employeeMapper;
 
 
-    @Cacheable(value ={"emp"} )
+    @Cacheable(value ={"emp"},
+            keyGenerator = "myKeyGenerator"
+            /*,keyGenerator = "myKeyGenerator",condition = "#a0>1",unless = "#a0==2"*/
+    )
     public Employee getEmp(Integer id) {
         return employeeMapper.getEmpById(id);
     }
