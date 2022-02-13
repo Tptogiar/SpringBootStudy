@@ -18,15 +18,16 @@
         <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" />
         <module name="_06_ChangeLogImplement" />
         <module name="_11_SpringBootDatabaseDruid" />
-        <module name="_16_SpringBootCustomStarter" />
-        <module name="spring-boot-custom-starter" />
         <module name="_09_SpringBootWar" />
-        <module name="_04_ConfigFileLocation" />
+        <module name="spring-boot-custom-starter" />
         <module name="_07_SpringBootWebDefaultConfig" />
+        <module name="_17_SpringBootCache" />
+        <module name="_16_SpringBootCustomStarter" />
         <module name="_13_SpringBootSpringDataJPA" />
-        <module name="_14_SpringBootPrinciple" />
         <module name="_08_SpringBootCURD" />
+        <module name="_04_ConfigFileLocation" />
         <module name="_10_SpringBootDatabaseJdbc" />
+        <module name="_14_SpringBootPrinciple" />
         <module name="_01_HelloWorld" />
         <module name="_05_Log" />
         <module name="_16_1_SpringBootStarter" />
@@ -34,7 +35,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="_007_SpringBootWebDefaultConfig" target="1.8" />
-      <module name="_01_HelloWorld" target="1.6" />
+      <module name="_01_HelloWorld" target="1.8" />
       <module name="_02_SpringInitializrTest" target="1.8" />
       <module name="_03_Config" target="1.8" />
       <module name="_04_ConfigFileLocation" target="1.8" />
@@ -55,6 +56,7 @@
       <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" target="1.8" />
       <module name="_16_3_TestTptogiarSpringBootStarter" target="1.8" />
       <module name="_16_SpringBootCustomStarter" target="1.8" />
+      <module name="_17_SpringBootCache" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="spring-boot-custom-listener-initializer-runner" target="1.8" />
       <module name="spring-boot-custom-starter" target="1.8" />
@@ -83,6 +85,7 @@
       <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" options="-parameters" />
       <module name="_16_3_TestTptogiarSpringBootStarter" options="-parameters" />
       <module name="_16_SpringBootCustomStarter" options="-parameters" />
+      <module name="_17_SpringBootCache" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="spring-boot-custom-listener-initializer-runner" options="-parameters" />
       <module name="spring-boot-custom-starter" options="-parameters" />
