@@ -22,5 +22,6 @@
     <file url="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_17_SpringBootDefaultCache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/_18_SpringBootRedisCache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_SpringBootCustomStarter.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_SpringBootCustomStarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/_17_SpringBootDefaultCache/_17_SpringBootDefaultCache.iml" filepath="$PROJECT_DIR$/_17_SpringBootDefaultCache/_17_SpringBootDefaultCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/_18_SpringBootRedisCache/_18_SpringBootRedisCache.iml" filepath="$PROJECT_DIR$/_18_SpringBootRedisCache/_18_SpringBootRedisCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/_19_SpringBootAmqpRabbitMQ.iml" filepath="$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/_19_SpringBootAmqpRabbitMQ.iml" />
     </modules>
   </component>
 </project>
