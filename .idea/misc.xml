@@ -30,6 +30,7 @@
         <option value="$PROJECT_DIR$/_17_SpringBootCache/pom.xml" />
         <option value="$PROJECT_DIR$/_18_SpringBootRedisCache/pom.xml" />
         <option value="$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/_20_SpringBootElasticSearch/pom.xml" />
       </list>
     </option>
   </component>

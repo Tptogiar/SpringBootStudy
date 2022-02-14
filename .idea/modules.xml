@@ -25,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/_17_SpringBootDefaultCache/_17_SpringBootDefaultCache.iml" filepath="$PROJECT_DIR$/_17_SpringBootDefaultCache/_17_SpringBootDefaultCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/_18_SpringBootRedisCache/_18_SpringBootRedisCache.iml" filepath="$PROJECT_DIR$/_18_SpringBootRedisCache/_18_SpringBootRedisCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/_19_SpringBootAmqpRabbitMQ.iml" filepath="$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/_19_SpringBootAmqpRabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20_SpringBootElasticSearch/_20_SpringBootElasticSearch.iml" filepath="$PROJECT_DIR$/_20_SpringBootElasticSearch/_20_SpringBootElasticSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20_SpringBootElasticSearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/_20_SpringBootElasticSearch/spring-boot-elasticsearch.iml" />
     </modules>
   </component>
 </project>
