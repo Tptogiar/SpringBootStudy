@@ -16,14 +16,15 @@
         <module name="spring-boot-custom-listener-initializer-runner" />
         <module name="_15_SpringBootCustomListenerInitializerRunner" />
         <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" />
+        <module name="_18_SpringBootRedisCache" />
         <module name="_06_ChangeLogImplement" />
         <module name="_11_SpringBootDatabaseDruid" />
         <module name="_09_SpringBootWar" />
         <module name="spring-boot-custom-starter" />
         <module name="_07_SpringBootWebDefaultConfig" />
-        <module name="_17_SpringBootCache" />
         <module name="_16_SpringBootCustomStarter" />
         <module name="_13_SpringBootSpringDataJPA" />
+        <module name="_17_SpringBootDefaultCache" />
         <module name="_08_SpringBootCURD" />
         <module name="_04_ConfigFileLocation" />
         <module name="_10_SpringBootDatabaseJdbc" />
@@ -56,7 +57,8 @@
       <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" target="1.8" />
       <module name="_16_3_TestTptogiarSpringBootStarter" target="1.8" />
       <module name="_16_SpringBootCustomStarter" target="1.8" />
-      <module name="_17_SpringBootCache" target="1.8" />
+      <module name="_17_SpringBootDefaultCache" target="1.8" />
+      <module name="_18_SpringBootRedisCache" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="spring-boot-custom-listener-initializer-runner" target="1.8" />
       <module name="spring-boot-custom-starter" target="1.8" />
@@ -85,7 +87,8 @@
       <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" options="-parameters" />
       <module name="_16_3_TestTptogiarSpringBootStarter" options="-parameters" />
       <module name="_16_SpringBootCustomStarter" options="-parameters" />
-      <module name="_17_SpringBootCache" options="-parameters" />
+      <module name="_17_SpringBootDefaultCache" options="-parameters" />
+      <module name="_18_SpringBootRedisCache" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="spring-boot-custom-listener-initializer-runner" options="-parameters" />
       <module name="spring-boot-custom-starter" options="-parameters" />

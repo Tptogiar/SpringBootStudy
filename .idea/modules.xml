@@ -22,7 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_2_TptogiarSpringBootStarterAutoConfigurer/_16_2_TptogiarSpringBootStarterAutoConfigurer.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_2_TptogiarSpringBootStarterAutoConfigurer/_16_2_TptogiarSpringBootStarterAutoConfigurer.iml" />
       <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_3_TestTptogiarSpringBootStarter/_16_3_TestTptogiarSpringBootStarter.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_3_TestTptogiarSpringBootStarter/_16_3_TestTptogiarSpringBootStarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_SpringBootCustomStarter.iml" filepath="$PROJECT_DIR$/_16_SpringBootCustomStarter/_16_SpringBootCustomStarter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_17_SpringBootCache/_17_SpringBootCache.iml" filepath="$PROJECT_DIR$/_17_SpringBootCache/_17_SpringBootCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_17_SpringBootDefaultCache/_17_SpringBootDefaultCache.iml" filepath="$PROJECT_DIR$/_17_SpringBootDefaultCache/_17_SpringBootDefaultCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_18_SpringBootRedisCache/_18_SpringBootRedisCache.iml" filepath="$PROJECT_DIR$/_18_SpringBootRedisCache/_18_SpringBootRedisCache.iml" />
     </modules>
   </component>
 </project>
