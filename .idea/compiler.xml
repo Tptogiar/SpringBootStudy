@@ -7,35 +7,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="_01_HelloWorld" />
-        <module name="_10_SpringBootDataJdbc" />
-        <module name="_03_Config" />
-        <module name="_12_SpringBootMybatis" />
-        <module name="demo" />
-        <module name="_02_SpringInitializrTest" />
-        <module name="spring-boot-custom-listener-initializer-runner" />
-        <module name="_19_SpringBootAmqpRabbitMQ" />
-        <module name="_17_SpringBootDefaultCache" />
-        <module name="_18_SpringBootRedisCache" />
-        <module name="_06_ChangeLogImplement" />
+        <module name="spring-boot-test-security" />
         <module name="_11_SpringBootDatabaseDruid" />
-        <module name="_10_SpringBootDatabaseJdbc" />
-        <module name="_21_SpringBootTask" />
-        <module name="_09_SpringBootWar" />
-        <module name="_04_ConfigFileLocation" />
-        <module name="_07_SpringBootWebDefaultConfig" />
-        <module name="_13_SpringBootSpringDataJPA" />
-        <module name="_16_SpringBootCustomStarter" />
-        <module name="_20_SpringBootElasticSearch" />
-        <module name="_14_SpringBootPrinciple" />
+        <module name="_17_SpringBootDefaultCache" />
+        <module name="demo" />
+        <module name="_22_SpringBootSecurity" />
+        <module name="_22_SpringBootDevTools" />
         <module name="_16_2_TptogiarSpringBootStarterAutoConfigurer" />
+        <module name="_10_SpringBootDataJdbc" />
+        <module name="_12_SpringBootMybatis" />
+        <module name="_02_SpringInitializrTest" />
+        <module name="_09_SpringBootWar" />
+        <module name="_13_SpringBootSpringDataJPA" />
+        <module name="_10_SpringBootDatabaseJdbc" />
+        <module name="spring-boot-custom-listener-initializer-runner" />
         <module name="_08_SpringBootCURD" />
-        <module name="sprng-boot-test-mail" />
-        <module name="spring-boot-custom-starter" />
-        <module name="_15_SpringBootCustomListenerInitializerRunner" />
-        <module name="_16_1_SpringBootStarter" />
         <module name="_16_3_TestTptogiarSpringBootStarter" />
+        <module name="_03_Config" />
+        <module name="_19_SpringBootAmqpRabbitMQ" />
+        <module name="_20_SpringBootElasticSearch" />
+        <module name="_21_SpringBootTask" />
+        <module name="_16_SpringBootCustomStarter" />
+        <module name="spring-boot-custom-starter" />
+        <module name="_04_ConfigFileLocation" />
+        <module name="_06_ChangeLogImplement" />
+        <module name="_16_1_SpringBootStarter" />
+        <module name="_15_SpringBootCustomListenerInitializerRunner" />
         <module name="_05_Log" />
+        <module name="_07_SpringBootWebDefaultConfig" />
+        <module name="_01_HelloWorld" />
+        <module name="sprng-boot-test-mail" />
+        <module name="_14_SpringBootPrinciple" />
+        <module name="_18_SpringBootRedisCache" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -66,10 +69,13 @@
       <module name="_19_SpringBootAmqpRabbitMQ" target="1.8" />
       <module name="_20_SpringBootElasticSearch" target="1.8" />
       <module name="_21_SpringBootTask" target="1.8" />
+      <module name="_22_SpringBootDevTools" target="1.8" />
+      <module name="_22_SpringBootSecurity" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="spring-boot-custom-listener-initializer-runner" target="1.8" />
       <module name="spring-boot-custom-starter" target="1.8" />
       <module name="spring-boot-elasticsearch" target="1.8" />
+      <module name="spring-boot-test-security" target="1.8" />
       <module name="sprng-boot-test-mail" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -101,10 +107,13 @@
       <module name="_19_SpringBootAmqpRabbitMQ" options="-parameters" />
       <module name="_20_SpringBootElasticSearch" options="-parameters" />
       <module name="_21_SpringBootTask" options="-parameters" />
+      <module name="_22_SpringBootDevTools" options="-parameters" />
+      <module name="_22_SpringBootSecurity" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="spring-boot-custom-listener-initializer-runner" options="-parameters" />
       <module name="spring-boot-custom-starter" options="-parameters" />
       <module name="spring-boot-elasticsearch" options="-parameters" />
+      <module name="spring-boot-test-security" options="-parameters" />
       <module name="sprng-boot-test-mail" options="-parameters" />
     </option>
   </component>

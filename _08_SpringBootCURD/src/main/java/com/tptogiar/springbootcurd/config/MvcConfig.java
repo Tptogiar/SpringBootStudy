@@ -66,7 +66,7 @@ public class MvcConfig extends WebMvcConfigurerAdapter {
         return new WebServerFactoryCustomizer<ConfigurableWebServerFactory>() {
             @Override
             public void customize(ConfigurableWebServerFactory factory) {
-                factory.setPort(8080);
+                factory.setPort(8081);
             }
         };
     }

@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/_19_SpringBootAmqpRabbitMQ.iml" filepath="$PROJECT_DIR$/_19_SpringBootAmqpRabbitMQ/_19_SpringBootAmqpRabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/_20_SpringBootElasticSearch/_20_SpringBootElasticSearch.iml" filepath="$PROJECT_DIR$/_20_SpringBootElasticSearch/_20_SpringBootElasticSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/_21_SpringBootTask/_21_SpringBootTask.iml" filepath="$PROJECT_DIR$/_21_SpringBootTask/_21_SpringBootTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_22_SpringBootDevTools/_22_SpringBootDevTools.iml" filepath="$PROJECT_DIR$/_22_SpringBootDevTools/_22_SpringBootDevTools.iml" />
     </modules>
   </component>
 </project>

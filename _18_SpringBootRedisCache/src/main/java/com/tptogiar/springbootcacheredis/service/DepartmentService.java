@@ -43,6 +43,7 @@ public class DepartmentService {
     }
 
 
-
-
+    public Department getDepartmentById(Integer id) {
+        return null;
+    }
 }
