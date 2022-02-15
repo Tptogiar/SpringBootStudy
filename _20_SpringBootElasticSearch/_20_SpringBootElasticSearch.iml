@@ -23,7 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-elasticsearch:2.6.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.6.3" level="project" />
@@ -82,11 +82,6 @@
     <orderEntry type="library" name="Maven: org.elasticsearch:jna:5.7.0-1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.elasticsearch:elasticsearch-plugin-classloader:7.15.2" level="project" />
     <orderEntry type="library" name="Maven: org.elasticsearch.client:elasticsearch-rest-client:7.15.2" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.15" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpasyncclient:4.1.5" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore-nio:4.4.15" level="project" />
-    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.15" level="project" />
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:mapper-extras-client:7.15.2" level="project" />
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:parent-join-client:7.15.2" level="project" />
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:aggs-matrix-stats-client:7.15.2" level="project" />
@@ -96,6 +91,15 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.1" level="project" />
+    <orderEntry type="library" name="Maven: io.searchbox:jest:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: io.searchbox:jest-common:5.3.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore-nio:4.4.15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpasyncclient:4.1.5" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.33" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.6.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:2.6.3" level="project" />
@@ -141,5 +145,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.15" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.8.4" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.22" level="project" />
   </component>
 </module>
