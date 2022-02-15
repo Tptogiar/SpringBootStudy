@@ -20,6 +20,7 @@
         <module name="_06_ChangeLogImplement" />
         <module name="_11_SpringBootDatabaseDruid" />
         <module name="_10_SpringBootDatabaseJdbc" />
+        <module name="_21_SpringBootTask" />
         <module name="_09_SpringBootWar" />
         <module name="_04_ConfigFileLocation" />
         <module name="_07_SpringBootWebDefaultConfig" />
@@ -64,6 +65,7 @@
       <module name="_18_SpringBootRedisCache" target="1.8" />
       <module name="_19_SpringBootAmqpRabbitMQ" target="1.8" />
       <module name="_20_SpringBootElasticSearch" target="1.8" />
+      <module name="_21_SpringBootTask" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="spring-boot-custom-listener-initializer-runner" target="1.8" />
       <module name="spring-boot-custom-starter" target="1.8" />
@@ -98,6 +100,7 @@
       <module name="_18_SpringBootRedisCache" options="-parameters" />
       <module name="_19_SpringBootAmqpRabbitMQ" options="-parameters" />
       <module name="_20_SpringBootElasticSearch" options="-parameters" />
+      <module name="_21_SpringBootTask" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="spring-boot-custom-listener-initializer-runner" options="-parameters" />
       <module name="spring-boot-custom-starter" options="-parameters" />
